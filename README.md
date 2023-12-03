@@ -19,7 +19,7 @@ Welcome to the Dice Game project! This is a simple React application where you c
 - html5
 - css3
 - javacsript
-- 
+  
 ## Rules Component
 
 ### How to Play Dice Game
