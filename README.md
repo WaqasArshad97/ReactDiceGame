@@ -46,4 +46,4 @@ The `Rules` component is styled using styled-components. It features a light pin
 4. Install dependencies: `npm install`.
 5. Start the development server: `npm run dev`.
 # Video Tutorial is here :
-https://github.com/WaqasArshad97/DiceGame/assets/140519770/4f86ae60-6092-40e7-a352-a267b4553a84
+https://github.com/WaqasArshad97/DiceGame/assets/140519770/9e1be7be-d3c8-410c-9251-c5b26dd43495
