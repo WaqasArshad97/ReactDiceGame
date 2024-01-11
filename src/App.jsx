@@ -1,6 +1,6 @@
 import { useState } from "react";
-import StartGame from "./components/StartGame";
-import GamePlay from "./components/GamePlay";
+import StartGame from "./Components/StartGame";
+import GamePlay from "./Components/GamePlay";
 
 function App() {
   const [isGameStarted, setIsGameStarted] = useState(false);
