@@ -22,6 +22,9 @@ Welcome to the Dice Game project! This is a simple React application where you c
   
 ## Rules Component
 
+## Deployment Link:
+https://react-dice-game-git-main-waqasarshad97s-projects.vercel.app/
+
 ### How to Play Dice Game
 
 The `Rules` component provides instructions on how to play the dice game. Here's a breakdown of the rules:
